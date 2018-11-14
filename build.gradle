@@ -2,7 +2,7 @@
 
 buildscript {
     ext.kotlin_version = '1.2.61'
-    ext.jacoco_version = '0.8.2'
+    ext.jacoco_version = '0.8.1'
     repositories {
         google()
         jcenter()
